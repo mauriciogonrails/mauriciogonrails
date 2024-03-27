@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mau Dev
+# 🏄‍♂️ Mauriciogonrails
 
 **`Artesão Digital (Desenvolvedor/Cineasta/Criador)`**
 
