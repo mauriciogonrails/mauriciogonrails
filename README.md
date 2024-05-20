@@ -1,13 +1,13 @@
 # 🏄‍♂️ Mauriciogonrails
 
-**`Artesão Digital (Desenvolvedor/Cineasta/Criador)`**
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 
-Sou um desenvolvedor back end e aspirante a criador de conteúdo, tentando construir minha própria versão do mundo digital passo a passo. Todos os projetos de codificação são desenvolvidos desde o início, desde o planejamento e design até a resolução de problemas do mundo real com código. Todo o conteúdo em vídeo segue o mesmo processo, desde a concepção e planejamento até a finalização com toques artísticos. Eu compartilho esse conteúdo no meu canal do YouTube, "MauDev".
+I'm a back end developer and aspiring content creator, trying to build my own version of the digital world step by step. All coding projects are developed from the ground up, from planning and design to solving real-world problems with code.
 
 ---
 
-### 🧰 Linguagens e ferramentas
+### 🧰 Languages ​​and tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -29,15 +29,15 @@ Sou um desenvolvedor back end e aspirante a criador de conteúdo, tentando const
 
 ### 📊 Stats
 
-[![Mau's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mauriciogonrails&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Mau's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mauriciogonrails&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+[![mauriciogonrails GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mauriciogonrails&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![mauriciogonrails GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mauriciogonrails&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![](https://leetcard.jacoblin.cool/mauricionrails?site=us)
 
 #
 
-<details><summary><h3>👨‍💻 Minha jornada no mundo da programação </h3></summary> 
+<details><summary><h3>👨‍💻 My journey in the world of programming </h3></summary> 
   
-  Comecei minha jornada de codificação como um estudante ingênuo de análise e desenvolvimento de sistemas, com paixão por aprender tudo o que pudesse sobre o mundo da programação - código, linguagens, Linux, teoria. E o tempo todo, aprendendo sozinho a desenvolver iOS com o sonho de construir meu próprio aplicativo, mas isso logo foi ofuscado pelo meu desejo de me destacar em Java. Um desejo que ainda me rende alguns estresses até hoje xD. No entanto, tenho outro desejo que venho perseguindo ao longo desse tempo - a criação de conteúdo no YouTube. E esse tem sido meu foco desde então, com algumas dificuldades para começar, mas nada que, com persistência, não possa ser superado.
+I started my coding journey as a naive systems analysis and development student with a passion for learning everything I could about the world of programming - code, languages, Linux, theory. And all the while, I was teaching myself iOS development with the dream of building my own app, but that was soon overshadowed by my desire to excel at Java. A desire that still causes me some stress to this day xD. However, I have another desire that I have been pursuing throughout this time - creating content on YouTube. And that has been my focus since then, with some difficulties to begin with, but nothing that, with persistence, cannot be overcome.
 
 [website]: in progress
 [youtube]: in progress
