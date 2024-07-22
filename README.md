@@ -29,7 +29,6 @@ I'm a back end developer and aspiring content creator, trying to build my own ve
 
 ### 📊 Stats
 
-[![mauriciogonrails GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mauriciogonrails&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![mauriciogonrails GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mauriciogonrails&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ![](https://leetcard.jacoblin.cool/mauricionrails?site=us)
 
