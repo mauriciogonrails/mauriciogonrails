@@ -5,7 +5,6 @@
 
 I'm a back end developer and aspiring content creator, trying to build my own version of the digital world step by step. All coding projects are developed from the ground up, from planning and design to solving real-world problems with code.
 
----
 #
 
 ### 📊 Stats
