@@ -3,7 +3,9 @@
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 
-I'm a back end developer and aspiring content creator, trying to build my own version of the digital world step by step. All coding projects are developed from the ground up, from planning and design to solving real-world problems with code.I started my coding journey as a naive systems analysis and development student with a passion for learning everything I could about the world of programming - code, languages, Linux, theory. And all the while, I was teaching myself iOS development with the dream of building my own app, but that was soon overshadowed by my desire to excel at Java. A desire that still causes me some stress to this day xD. However, I have another desire that I have been pursuing throughout this time - creating content on YouTube. And that has been my focus since then, with some difficulties to begin with, but nothing that, with persistence, cannot be overcome.
+I'm a data analyst and aspiring content creator, building my vision of the digital world one dataset at a time. Every project I work on is crafted from scratch—transforming raw data into actionable insights, from planning and analysis to real-world decision-making. My journey started as an eager systems analysis and development student, diving into data, Python, Excel, and Power BI, while navigating cloud tools like Google Cloud. Along the way, I developed a passion for understanding how data drives everything, and this curiosity continues to challenge and inspire me today.
+
+At the same time, I’ve been exploring content creation, aiming to share my data-driven insights and experiences. While it’s been a challenging start, I’m learning every step of the way, and nothing beats the satisfaction of combining data analysis with storytelling to make an impact!
 
 
    <p align="left"
@@ -15,18 +17,12 @@ I'm a back end developer and aspiring content creator, trying to build my own ve
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
